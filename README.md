@@ -22,7 +22,7 @@
 </div>
 <br>
 <div>
-	<a href="https://tryhackme.com/p/invae">Try Hack Me - invae</a>
+	<a href="https://tryhackme.com/p/invae">Try Hack Me Profile - invae</a>
 </div>
 <br>
 
